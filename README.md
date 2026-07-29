@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0222-count-complete-tree-nodes) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
