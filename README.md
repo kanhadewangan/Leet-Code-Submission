@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
