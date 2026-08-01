@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0098-validate-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
