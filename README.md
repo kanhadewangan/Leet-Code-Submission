@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -78,9 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
