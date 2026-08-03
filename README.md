@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1668-maximum-repeating-substring) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
