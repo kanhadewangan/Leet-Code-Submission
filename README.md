@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0222-count-complete-tree-nodes) |
+| [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -125,4 +128,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0048-rotate-image) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
