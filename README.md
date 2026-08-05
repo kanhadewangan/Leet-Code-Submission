@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0229-majority-element-ii) |
 ## Binary Search Tree
 |  |
@@ -119,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0328-odd-even-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
