@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
