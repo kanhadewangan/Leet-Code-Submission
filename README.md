@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
