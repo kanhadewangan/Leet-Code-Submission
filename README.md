@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0410-split-array-largest-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
