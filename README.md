@@ -155,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1668-maximum-repeating-substring) |
 ## Math
 |  |
