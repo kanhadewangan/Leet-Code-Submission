@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0410-split-array-largest-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0062-unique-paths) |
+| [1137-n-th-tribonacci-number](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
