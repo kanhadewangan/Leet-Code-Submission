@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0152-maximum-product-subarray) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0410-split-array-largest-sum) |
 | [1668-maximum-repeating-substring](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1668-maximum-repeating-substring) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0064-minimum-path-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
