@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0410-split-array-largest-sum) |
 | [1668-maximum-repeating-substring](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1668-maximum-repeating-substring) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0062-unique-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
