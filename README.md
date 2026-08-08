@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0410-split-array-largest-sum) |
 | [1668-maximum-repeating-substring](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1668-maximum-repeating-substring) |
 ## Stack
