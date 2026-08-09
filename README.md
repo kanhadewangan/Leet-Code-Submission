@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0875-koko-eating-bananas) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0455-assign-cookies) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1137-n-th-tribonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
