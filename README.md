@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0257-binary-tree-paths) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0938-range-sum-of-bst) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0257-binary-tree-paths) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0938-range-sum-of-bst) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0257-binary-tree-paths](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0257-binary-tree-paths) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1382-balance-a-binary-search-tree) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0257-binary-tree-paths) |
 | [0796-rotate-string](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/1668-maximum-repeating-substring) |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/kanhadewangan/Leet-Code-Submission/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
